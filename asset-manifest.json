@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e1f44d2.chunk.css",
+    "main.js": "/static/js/main.e98dc524.chunk.js",
+    "main.js.map": "/static/js/main.e98dc524.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.f051e85b.js",
+    "runtime~main.js.map": "/static/js/runtime~main.f051e85b.js.map",
+    "static/js/2.12b9965a.chunk.js": "/static/js/2.12b9965a.chunk.js",
+    "static/js/2.12b9965a.chunk.js.map": "/static/js/2.12b9965a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.93208790c1a2bacaf71d3587639cb3f3.js": "/precache-manifest.93208790c1a2bacaf71d3587639cb3f3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e1f44d2.chunk.css.map": "/static/css/main.5e1f44d2.chunk.css.map",
+    "static/media/bucket.mp4": "/static/media/bucket.6d17269a.mp4",
+    "static/media/jeffoufe.gif": "/static/media/jeffoufe.213cf499.gif",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mix.png": "/static/media/mix.a05087f5.png",
+    "static/media/stardust.mp3": "/static/media/stardust.aa0abe50.mp3",
+    "static/media/what.png": "/static/media/what.9eeec9bd.png"
+  }
+}
